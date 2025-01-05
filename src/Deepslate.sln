@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deepslate", "Deepslate\Deep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deepslate.Desktop", "Deepslate.Desktop\Deepslate.Desktop.csproj", "{7171C7A1-7C8E-4C6B-9210-BE1B2434AE69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deepslate.Commandline", "Deepslate.Commandline\Deepslate.Commandline.csproj", "{03209A09-8ADB-4CBE-B2A6-DC8CA08F2F2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{7171C7A1-7C8E-4C6B-9210-BE1B2434AE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7171C7A1-7C8E-4C6B-9210-BE1B2434AE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7171C7A1-7C8E-4C6B-9210-BE1B2434AE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03209A09-8ADB-4CBE-B2A6-DC8CA08F2F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03209A09-8ADB-4CBE-B2A6-DC8CA08F2F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03209A09-8ADB-4CBE-B2A6-DC8CA08F2F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03209A09-8ADB-4CBE-B2A6-DC8CA08F2F2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
